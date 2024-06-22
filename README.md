@@ -1,7 +1,7 @@
 # Finance_app
 
 ## Overview
-This is a finance management web application that allows users to manage their personal finances. The app provides features like tracking income and expenses, viewing transaction history, and generating financial reports. The application is built using HTML, CSS, JavaScript, Flask, SQLite, and Jinja.
+This is a finance management web application that allows users to manage their personal finances. The app provides features like Quote a New Stock Symbol, Buy , Sell and  transaction history. The application is built using HTML, CSS, JavaScript, Flask, SQLite, and Jinja.
 
 ## Features
 - User authentication (registration and login)
